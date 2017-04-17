@@ -34,13 +34,19 @@ nav {
   background-image: url('../images/the-flatiron-building.png')
 }
 
+#bottomNav {
+  font-size: 18px;
+  text-decoration: underline;
+}
+
 .header {
   background-image: url('../images/the-flatiron-building.png')
 }
 
-.footer {
+footer {
   text-align: left;
   font-size: 11px;
   background-color: dimgray;
   color: white;
+
 }
