@@ -34,9 +34,10 @@ nav {
   background-image: url('../images/the-flatiron-building.png')
 }
 
-#bottomNav {
+a {
   font-size: 18px;
   text-decoration: underline;
+  color: white; 
 }
 
 .header {
