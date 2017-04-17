@@ -26,11 +26,16 @@ p {
 nav {
   font-size: 18px;
   color: white;
-  font-decoration: underline;
+  text-decoration: underline;
 }
 
 #newyork {
   color: white;
+  background-image: url('../images/the-flatiron-building.png')
+}
+
+.header {
+  background-image: url('../images/the-flatiron-building.png')
 }
 
 .footer {
